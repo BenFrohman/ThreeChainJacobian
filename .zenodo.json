@@ -1,0 +1,33 @@
+{
+  "title": "Top-Degree Rank dim_Q R_12(F) = 1751 for the Three-Chain Sextic Jacobian Algebra and Independence from Contained Planes",
+  "upload_type": "publication",
+  "publication_type": "preprint",
+  "publication_date": "2026-09-28",
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "doi": "10.5281/zenodo.23629494",
+  "creators": [
+    {
+      "name": "Frohman, Benjamin Stanley",
+      "affiliation": "Independent Researcher",
+      "orcid": "0009-0006-7068-3718"
+    }
+  ],
+  "keywords": [
+    "Jacobian ring",
+    "Griffiths residue",
+    "sextic fourfold",
+    "Hilbert series",
+    "Noether-Lefschetz locus",
+    "Hodge numbers"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/BenFrohman/ThreeChainJacobian",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Origin Provenance: 2026-09-28 00:06:34 CDT (Git Initial Commit). Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved. Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0).",
+  "description": "<p>Proof that for the smooth three-chain sextic fourfold <code>X = V(F) &sub; P^5</code> with <code>F = &Sigma;(x_i^5 x_{i+3} + x_{i+3}^6)</code> containing the plane <code>&Pi; = V(x3,x4,x5)</code>, the partial derivatives form a regular sequence with <code>dim J(F) = 25^3 = 15,625</code>, Hilbert series <code>(1+t+t^2+t^3+t^4)^6</code>, and Griffiths primitive middle piece <code>dim R_12(F) = 1751</code> (<code>h^{2,2}(X) = 1752</code>), identical to a very general smooth sextic fourfold.</p>"
+}

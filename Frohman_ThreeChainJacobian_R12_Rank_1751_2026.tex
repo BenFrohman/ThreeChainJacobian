@@ -1,0 +1,36 @@
+% Copyright (c) 2026 Benjamin Stanley Frohman. All rights reserved.
+% Released under Apache 2.0 license as described in the file LICENSE.
+% Authors: Benjamin Stanley Frohman (ORCID: 0009-0006-7068-3718)
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath,amssymb,amsthm}
+\usepackage{hyperref}
+
+\newtheorem{theorem}{Theorem}
+
+\title{\textbf{Top-Degree Rank $\dim_{\mathbb{Q}} R_{12}(F) = 1751$ for the Three-Chain Sextic Jacobian Algebra and Independence from Contained Planes}}
+\author{Benjamin Stanley Frohman\\
+\small Independent Researcher \quad|\quad ORCID: \href{https://orcid.org/0009-0006-7068-3718}{0009-0006-7068-3718}\\
+\small \texttt{frohmanbenjamin@gmail.com}}
+\date{Origin Provenance: September 28, 2026 (00:06:34 CDT) \\ \small Repository: \texttt{BenFrohman/ThreeChainJacobian} \quad|\quad Licensed under Apache-2.0}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Let $W(u,v) = u^5v + v^6$ and let $F = W(x_0,x_3) + W(x_1,x_4) + W(x_2,x_5) \in \mathbb{C}[x_0,\dots,x_5]$ define the smooth three-chain sextic fourfold $X = V(F) \subset \mathbb{P}^5$ containing the plane $\Pi = V(x_3,x_4,x_5)$. We prove that containment of the plane $\Pi \subset X$ does not alter any graded dimension of the Jacobian ring $J(F) = \mathbb{C}[x_0,\dots,x_5]/(\partial F)$ relative to a very general smooth sextic fourfold: the partials form a regular sequence of six degree-5 forms, $\dim_{\mathbb{C}} J(F) = 5^6 = 25^3 = 15625$, the Hilbert series is $(1+t+t^2+t^3+t^4)^6$, and the degree-12 Griffiths residue piece has $\dim R_{12}(F) = 1751$ (so $h^{2,2}(X) = 1752$ and $b_4(X) = 2606$). We explicitly separate this graded Jacobian dimension from the rational Hodge rank $2 \le \rho_{\mathrm{Hdg}}(X) \le 1752$.
+\end{abstract}
+
+\section{Main Theorem}
+\begin{theorem}[Three-Chain Jacobian Graded Dimension]
+For $F = \sum_{i=0}^2 (x_i^5 x_{i+3} + x_{i+3}^6)$ on $\mathbb{P}^5$:
+\begin{enumerate}
+  \item $V(\partial F) = \{0\} \subset \mathbb{C}^6$, so $X = V(F) \subset \mathbb{P}^5$ is smooth and $(\partial_0 F, \dots, \partial_5 F)$ is a regular sequence of homogeneous degree-$5$ forms.
+  \item $J(F) \cong J(W)^{\otimes 3}$ has total dimension $\dim_{\mathbb{C}} J(F) = 25^3 = 5^6 = 15625$ and Hilbert series $\sum_{k=0}^{24} (\dim R_k) t^k = (1+t+t^2+t^3+t^4)^6$.
+  \item By Griffiths residue isomorphism, $h^{4,0}=1$, $h^{3,1}=\dim R_6 = 426$, $h^{2,2}_{\mathrm{prim}} = \dim R_{12} = 1751$, and $h^{2,2}(X) = 1752$, independent of the contained plane $\Pi = V(x_3,x_4,x_5) \subset X$.
+\end{enumerate}
+\end{theorem}
+
+\section*{License and Copyright}
+Copyright \copyright\ 2026 Benjamin Stanley Frohman. All rights reserved. Licensed under the Apache License, Version 2.0 (\url{http://www.apache.org/licenses/LICENSE-2.0}).
+\end{document}

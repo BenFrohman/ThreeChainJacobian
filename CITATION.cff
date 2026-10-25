@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it using the metadata below."
+title: "Top-Degree Rank dim_Q R_12(F) = 1751 for the Three-Chain Sextic Jacobian Algebra and Independence from Contained Planes"
+authors:
+  - family-names: "Frohman"
+    given-names: "Benjamin Stanley"
+    orcid: "https://orcid.org/0009-0006-7068-3718"
+    email: "frohmanbenjamin@gmail.com"
+version: "1.0.0"
+doi: "10.5281/zenodo.23629494"
+date-released: "2026-09-28"
+license: "Apache-2.0"
+repository-code: "https://github.com/BenFrohman/ThreeChainJacobian"
+url: "https://doi.org/10.5281/zenodo.23629494"

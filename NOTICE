@@ -1,9 +1,15 @@
-ThreeChainJacobian
+ThreeChainJacobian — Top-Degree Rank dim_Q R_12(F) = 1751 for the Three-Chain Sextic Jacobian Algebra and Independence from Contained Planes
 Copyright 2026 Benjamin Stanley Frohman
-
-Author: Benjamin Stanley Frohman <frohmanbenjamin@gmail.com>
 ORCID: https://orcid.org/0009-0006-7068-3718
-GitHub: https://github.com/BenFrohman
+GitHub: https://github.com/BenFrohman/ThreeChainJacobian
+Zenodo DOI: https://doi.org/10.5281/zenodo.23629494
+Origin Provenance: 2026-09-28 00:06:34 CDT (Git Initial Commit)
 
-This repository is offered under the Apache License, Version 2.0.
-See LICENSE for the full Apache License, Version 2.0 text.
+This product includes software, formal Lean 4 proofs, and mathematical manuscripts developed by
+Benjamin Stanley Frohman (frohmanbenjamin@gmail.com).
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this work except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
