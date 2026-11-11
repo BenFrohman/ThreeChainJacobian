@@ -74,3 +74,7 @@ The lower bound is the rank of `Q⟨h^2, [Π]⟩` (intersection determinant `125
 
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23629493.svg)](https://doi.org/10.5281/zenodo.23629493) Top-Degree Rank dim_Q R_12(F) = 1751 for the Three-Chain Sextic Jacobian Algebra and Independence from Contained Planes — all versions: [10.5281/zenodo.23629493](https://doi.org/10.5281/zenodo.23629493); latest version: [10.5281/zenodo.23629494](https://doi.org/10.5281/zenodo.23629494)
 - [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23867567.svg)](https://doi.org/10.5281/zenodo.23867567) Top-Degree Rank dim_Q R_12(F) = 1751 for the Three-Chain Sextic Jacobian Algebra and Independence from Contained Planes — all versions: [10.5281/zenodo.23867567](https://doi.org/10.5281/zenodo.23867567); latest version: [10.5281/zenodo.23867568](https://doi.org/10.5281/zenodo.23867568)
+
+## Citation
+
+Cite this work with [`CITATION.cff`](CITATION.cff) (GitHub's "Cite this repository" button). Zenodo DOI: [10.5281/zenodo.23629494](https://doi.org/10.5281/zenodo.23629494).
